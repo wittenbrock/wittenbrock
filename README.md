@@ -9,10 +9,10 @@
 ## What I'm writing about
 
 <!-- BLOG-POST-LIST:START -->
-- [Chrome DevTools 101](https://www.wittenbrockdesign.com/chrome-devtools-101/)
-- [Tailwind: a love story](https://www.wittenbrockdesign.com/tailwind-a-love-story/)
-- [Drupal's frontend tools suck](https://www.wittenbrockdesign.com/drupals-frontend-tools-suck/)
-- [Why I write](https://www.wittenbrockdesign.com/why-i-write/)
+- [Chrome DevTools 101](https://www.wittenbrockdesign.com/blog/chrome-devtools-101/)
+- [Tailwind: a love story](https://www.wittenbrockdesign.com/blog/tailwind-a-love-story/)
+- [Drupal's frontend tools suck](https://www.wittenbrockdesign.com/blog/drupals-frontend-tools-suck/)
+- [Why I write](https://www.wittenbrockdesign.com/blog/why-i-write/)
 <!-- BLOG-POST-LIST:END -->
 
 [Read more][website]
