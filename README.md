@@ -6,13 +6,13 @@
 - Sometimes, good code is challenging to read. [Shakespeare's plays are genius, but they're difficult to read.][typical-programmer]
 <br/>
 
-## What I'm thinking about
+## What I'm writing about
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 [Read more][website]
-
+<br/>
 
 ---
 
