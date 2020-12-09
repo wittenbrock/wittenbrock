@@ -1,9 +1,9 @@
 ## What I believe
 - An interface's design matters.
 - Clear and concise variable names are beautiful.
-- Code comments create clarity and enhance readability - strive to write code that is empathetic to the reader.
-- Never answer a question with condescension; support other's growth.
-- Sometimes, good code is challenging to read. [Shakespeare's plays are genius, but they're difficult to read.][typical-programmer]
+- Let curiosity guide your learning.
+- Never answer questions with condescension; support other's growth.
+- [Sometimes, good code is challenging to read][typical-programmer].
 <br/>
 
 ## What I'm writing about
