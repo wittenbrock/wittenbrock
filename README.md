@@ -9,6 +9,7 @@
 ## What I'm writing about
 
 <!-- BLOG-POST-LIST:START -->
+- [I dopped out of my boot camp](https://www.wittenbrockdesign.com/blog/i-dropped-out-of-my-boot-camp/)
 - [Chrome DevTools 101](https://www.wittenbrockdesign.com/blog/chrome-devtools-101/)
 - [Tailwind: a love story](https://www.wittenbrockdesign.com/blog/tailwind-a-love-story/)
 - [Drupal's frontend tools suck](https://www.wittenbrockdesign.com/blog/drupals-frontend-tools-suck/)
