@@ -9,11 +9,11 @@
 ## What I'm writing about
 
 <!-- BLOG-POST-LIST:START -->
+- [How to email busy people](https://www.wittenbrockdesign.com/blog/how-to-email-busy-people/)
 - [Becoming a self-taught programmer](https://www.wittenbrockdesign.com/blog/becoming-a-self-taught-programmer/)
 - [I dropped out of my coding boot camp](https://www.wittenbrockdesign.com/blog/i-dropped-out-of-my-coding-boot-camp/)
 - [Chrome DevTools 101](https://www.wittenbrockdesign.com/blog/chrome-devtools-101/)
 - [Tailwind: a love story](https://www.wittenbrockdesign.com/blog/tailwind-a-love-story/)
-- [Drupal's frontend tools suck](https://www.wittenbrockdesign.com/blog/drupals-frontend-tools-suck/)
 <!-- BLOG-POST-LIST:END -->
 
 [Read more][website]
